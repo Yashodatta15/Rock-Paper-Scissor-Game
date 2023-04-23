@@ -3,3 +3,4 @@
 In this code I use While and If loop 
 
 **Flow Diagram**
+<img sre 
