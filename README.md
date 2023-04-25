@@ -1,6 +1,7 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)
-![read-blog-medium](https://img.shields.io/badge/Read%20Blog-Medium-blue.svg?longCache=true&style=plastic)
-<a href="https://medium.com/@patilyashodatta">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
+[![Read-Blog-Medium](https://img.shields.io/badge/Read%20Blog-Medium-blue.svg?longCache=true&style=plastic)](https://medium.com/@patilyashodatta)
+
+
 
 <p align="center">
 <img src="https://inprogrammer.com/wp-content/uploads/2022/06/Image-for-introduction-to-python-10.jpg"  height="400"  />
