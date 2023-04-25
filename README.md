@@ -1,7 +1,9 @@
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)
+![read-blog-medium](https://img.shields.io/badge/Read%20Blog-Medium-blue.svg?longCache=true&style=plastic)
+
 <p align="center">
 <img src="https://inprogrammer.com/wp-content/uploads/2022/06/Image-for-introduction-to-python-10.jpg"  height="400"  />
 </p>
-
 
 ### **Rock Paper Scissor Game using Python**
 
@@ -16,5 +18,8 @@ This is a simple game of Rock, Paper, Scissors implemented in Python. The user i
 The loop in the given code is a while loop that runs until the number of chances for the game is exhausted. Within the loop, the program takes input from the user for Rock, Paper, or Scissors and generates a random selection for the computer. It then checks the input against the computer's choice and assigns points to the winner. At the end of each iteration of the loop, the program checks if the game is tied, if the computer or user won, and prints the current score. Finally, the loop updates the number of chances left and prints a message to indicate the number of remaining chances.
 
 
-###                                                              Thank You 
+<p align="center">
+**Thank You**
+</p>
+
 
