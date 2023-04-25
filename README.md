@@ -1,4 +1,9 @@
-**:rock:  :page_with_curl:  :scissors: Game using Python**
+<p align="center">
+<img src="https://inprogrammer.com/wp-content/uploads/2022/06/Image-for-introduction-to-python-10.jpg"  height="400"  />
+</p>
+
+
+### **Rock Paper Scissor Game using Python**
 
 This is a simple game of Rock, Paper, Scissors implemented in Python. The user is prompted to enter their name and asked if they want to play the game. The game is played for a total of 5 rounds, and the user can choose between rock (r), paper (p), and scissors (s) for each round. The computer randomly selects its choice, and the winner of each round is determined based on the traditional rules of the game. The score is kept track of for both the user and the computer, and at the end of the game, the winner is declared based on who has the higher score. The program also prints out messages indicating the outcome of each round, and how many rounds are left.
 
