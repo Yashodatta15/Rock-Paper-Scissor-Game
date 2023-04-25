@@ -1,7 +1,5 @@
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)
 [![Read-Blog-Medium](https://img.shields.io/badge/Read%20Blog-Medium-blue.svg?longCache=true&style=plastic)](https://medium.com/@patilyashodatta)
-
-
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg?longCache=true&style=plastic)
 
 <p align="center">
 <img src="https://inprogrammer.com/wp-content/uploads/2022/06/Image-for-introduction-to-python-10.jpg"  height="400"  />
