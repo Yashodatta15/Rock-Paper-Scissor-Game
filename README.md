@@ -19,7 +19,7 @@ The loop in the given code is a while loop that runs until the number of chances
 
 
 <p align="center">
-**Thank You**
+Thank You
 </p>
 
 
